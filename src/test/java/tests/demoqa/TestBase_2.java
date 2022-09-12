@@ -30,7 +30,6 @@ public class TestBase_2 {
             Configuration.browser ="chrome";
             Configuration.browserSize ="1500x800";
         }
-
     }
 
     @AfterEach

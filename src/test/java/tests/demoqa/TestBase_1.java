@@ -27,7 +27,6 @@ public class TestBase_1 {
         if (System.getProperty("remote") != null) {
             Configuration.remote = System.getProperty("remote");
         }
-
     }
 
     @AfterEach
